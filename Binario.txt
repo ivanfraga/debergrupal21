@@ -1,0 +1,6 @@
+
+ elemento encontrado: 5
+
+  encontrado: 5
+posicion5
+posicion5
